@@ -2,12 +2,12 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-insomnia"
-        version="4.3.0">
+        version="5.0.0">
 
   <name>Insomnia (prevent screen sleep)</name>
 
   <description>
-    Prevent the screen of the mobile device from falling asleep.
+    Prevent the screen of the mobile device from falling asleep. This is for LeySerKids.
   </description>
 
   <license>MIT</license>

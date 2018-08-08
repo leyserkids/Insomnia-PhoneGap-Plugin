@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-insomnia",
-  "version": "4.3.0",
-  "description": "Prevent the screen of the mobile device from falling asleep.",
+  "version": "5.0.0",
+  "description": "Prevent the screen of the mobile device from falling asleep. This is for LeySerKids.",
   "cordova": {
     "id": "cordova-plugin-insomnia",
     "platforms": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"
+    "url": "git+https://github.com/leyserkids/Insomnia-PhoneGap-Plugin.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -33,7 +33,7 @@
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin/issues"
+    "url": "https://github.com/leyserkids/Insomnia-PhoneGap-Plugin/issues"
   },
-  "homepage": "https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#readme"
+  "homepage": "https://github.com/leyserkids/Insomnia-PhoneGap-Plugin#readme"
 }

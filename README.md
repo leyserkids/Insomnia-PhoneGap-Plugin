@@ -15,6 +15,8 @@ This is for PhoneGap 3.x, [here is the 2.x version](https://github.com/EddyVerbr
 
 ## 1. Description
 
+THIS REPO WAS FORKED FOR LEYSERKIDS.
+
 Prevent the screen of the mobile device from falling asleep.
 
 * The device will never fall asleep after calling `keepAwake`.
